@@ -25,13 +25,13 @@
     <groupId>com.hortonworks</groupId>
     <artifactId>shc</artifactId>
     <!-- <version>1.1.2-2.2-s_2.11</version> -->
-    <version>spark2.4-hbase1.2-cd</version>
+    <version>spark2.4-hbase1.2-cdh-cd</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
   <artifactId>shc-core</artifactId>
   <!-- <version>1.1.2-2.2-s_2.11</version> -->
-  <version>spark2.4-hbase1.2-cd</version>
+  <version>spark2.4-hbase1.2-cdh-cd</version>
   <packaging>jar</packaging>
   <name>HBase Spark Connector Project Core</name>
 
